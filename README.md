@@ -37,6 +37,8 @@ Kafka Topics:
           |
           v
 [ DB / Dashboard / Notification Service ]
+```
+---
 
 # 🏠 Smart Home Real-Time Monitoring Dashboard
 
