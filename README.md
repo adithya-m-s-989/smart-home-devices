@@ -37,3 +37,7 @@ Kafka Topics:
           |
           v
 [ DB / Dashboard / Notification Service ]
+
+# 🏠 Smart Home Real-Time Monitoring Dashboard
+
+![image](https://github.com/user-attachments/assets/8d886741-b9dc-4666-8e61-208c118b3769)
